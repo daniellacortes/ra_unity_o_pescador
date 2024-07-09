@@ -10,5 +10,5 @@
 > Criar uma aplicação que utilize um marcador cilíndrico ou em cubo. (CUBO: precia ter todas as faces, e não somente uma). 
 > Esta aplicação terá um objeto importado da Asset Store do Windows. 
 > Se o objeto tiver animação entra como um Bônus.
-<p> O presente repositório conta com o projeto desenvolvido no Unity, o seu apk, o modelo para o cubo, artigo com detalhes do que foi desenvolvido e ainda uma foto demonstrativa do aplicativo em funcionamento.</p>
+<p> O presente repositório conta com o arquivo apk do projeto, o modelo para o cubo, artigo com detalhes do que foi desenvolvido e ainda uma foto demonstrativa do aplicativo em funcionamento. Por sua vez, o projeto pode pode ser baixado no Google Drive (https://drive.google.com/file/d/15woKtfJYWsj_OSoYxRD-QFrDvjmMv_am/view?usp=sharing), vez que o tamanho excede ao aceitável pelo GitHub.</p>
 <p>Para mais detalhes da aplicação, consulte o artigo disponibilizado neste repositório.</p>
